@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student at SZABIST Islamabad with a strong interest in building modern, user-focused digital experiences. I enjoy working across both frontend and backend, turning ideas into clean, functional, and visually appealing applications.<br><br>Currently, I’m focused on improving my skills in web development, exploring 3D and interactive UI, and learning how to build scalable projects. I’m also interested in areas like SEO and digital products, aiming to combine technical skills with real-world business ideas.<br><br>I like keeping my code simple, efficient, and well-structured, and I’m always looking for opportunities to learn, build, and grow.
+I’m a Computer Science student with a strong interest in building modern, user-focused digital experiences. I enjoy working across both frontend and backend, turning ideas into clean, functional, and visually appealing applications.<br><br>Currently, I’m focused on improving my skills in web development, exploring 3D and interactive UI, and learning how to build scalable projects. I’m also interested in areas like SEO and digital products, aiming to combine technical skills with real-world business ideas.<br><br>I like keeping my code simple, efficient, and well-structured, and I’m always looking for opportunities to learn, build, and grow.
 
 
 ## 🌐 Socials:
